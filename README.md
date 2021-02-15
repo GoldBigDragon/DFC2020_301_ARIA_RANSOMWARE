@@ -7,4 +7,11 @@
 ### Questions
   1. Describe the process of how the ransomware encrypts the PDF files in detail. (100 points)  
   2. Can the encrypted files be recovered? If you can recover the files, provide a specific solution. (Note, you should submit source code or binary you implemented.) (100 points)  
-  3. 3)	Decrypt the ‘my_secret_file.pdf.enc’. (Note, you should write the SHA-256 value of the original on your answer sheet.) (100 points)  
+  3. Decrypt the ‘my_secret_file.pdf.enc’. (Note, you should write the SHA-256 value of the original on your answer sheet.) (100 points)  
+***
+### CODE
+  - ADD : Multi Threads
+  - ADD : Change IV
+  - ADD : Encrypt
+  - ADD : Decrypt
+  - ADD : Target File Extension ADD/Delete
